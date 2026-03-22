@@ -1,0 +1,11 @@
+{
+  "name": "Flexoki",
+  "author": "Eidos Team",
+  "repo": "mayneyao/eidos-theme-flexoki",
+  "description": "An inky color scheme for prose and code, based on Flexoki by Steph Ango",
+  "screenshot": "screenshot.png",
+  "modes": ["light", "dark"],
+  "version": "1.0.0",
+  "tags": ["warm", "paper", "ink", "minimal", "readable"],
+  "previewColors": ["#24837B", "#AF3029", "#AD8301", "#3AA99F"]
+}
