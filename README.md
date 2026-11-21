@@ -1,46 +1,15 @@
-# Flexoki Theme for Eidos
+# Flexoki for Eidos Lite
 
-An inky color scheme for prose and code, based on [Flexoki](https://stephango.com/flexoki) by [Steph Ango](https://stephango.com/).
-
-## Preview
-
-| Light Mode (Paper) | Dark Mode (Ink) |
-|-------------------|-----------------|
-| Warm paper background | Deep ink background |
-| High contrast text | Soft paper-colored text |
-
-## Features
-
-- **Dual mode**: Full support for light and dark modes
-- **Syntax highlighting**: Optimized colors for code readability
-- **Terminal colors**: Full ANSI color palette
-- **Chart colors**: Accessible data visualization colors
-
-## Colors
-
-### Accent Palette
-
-| Color | Hex | Usage |
-|-------|-----|-------|
-| Cyan | `#24837B` | Primary accent (light) |
-| Red | `#AF3029` | Errors, destructive |
-| Yellow | `#AD8301` | Warnings, functions |
-| Cyan Light | `#3AA99F` | Primary accent (dark) |
-
-### Base Palette
-
-- **Paper** (`#FFFCF0`) - Light background
-- **Ink** (`#100F0F`) - Dark background
-- **Text** (`#282726` / `#CECDC3`) - Body text
+Flexoki brings warm paper, deep ink, and restrained teal accents to Eidos Lite. The light and dark palettes color the editor, tables, sidebar, and controls while following the app's appearance setting.
 
 ## Install
 
-Search "Flexoki" in Eidos theme marketplace.
+1. Open **Plugins → Marketplace** in Eidos Lite and search for **Flexoki**.
+2. Install the theme, then select it under **Plugins → Installed**. The theme applies across Spaces.
+3. In **Settings → Appearance**, choose Light, Dark, or System.
+
+Requires Eidos Lite 0.29.0 or later with Plugin API 3.7.0. The theme is a stylesheet with no executable code or permissions.
 
 ## Credits
 
-- Original [Flexoki](https://github.com/kepano/flexoki) color scheme by [Steph Ango](https://stephango.com/)
-
-## License
-
-MIT
+Based on [Flexoki](https://stephango.com/flexoki) by [Steph Ango](https://github.com/kepano). Distributed under the [MIT License](https://github.com/mayneyao/eidos-theme-flexoki/blob/main/LICENSE).

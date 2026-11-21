@@ -1,0 +1,32 @@
+{
+  "apiVersion": 1,
+  "kind": "theme",
+  "id": "eidos.flexoki-theme",
+  "name": "%plugin.name%",
+  "description": "%plugin.description%",
+  "version": "1.0.0",
+  "requires": {
+    "pluginApi": "3.7.0"
+  },
+  "icon": {
+    "paths": [
+      "m14 5 5 5-3 8-12 2 2-12 8-3Z",
+      "m14 5 3-3 5 5-3 3M4 20l7-7",
+      "M13 12a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"
+    ]
+  },
+  "theme": {
+    "stylesheet": "./lite/theme.css"
+  },
+  "i18n": {
+    "defaultLocale": "en",
+    "messages": {
+      "en": "./locales/en.json",
+      "zh-CN": "./locales/zh-CN.json"
+    },
+    "readme": {
+      "en": "./README.md",
+      "zh-CN": "./README.zh-CN.md"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+/*!
+ * Flexoki palette by Steph Ango, https://stephango.com/flexoki
+ *
+ * MIT License
+ *
+ * Copyright (c) 2026 Eidos
+ * Copyright (c) 2023 Steph Ango
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in all
+ * copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ * SOFTWARE.
+ */
+
+:root[data-theme="light"] {
+  --theme-surface: #fffcf0;
+  --theme-ink: #100f0f;
+  --theme-accent: #1c6c66;
+  --theme-success: #536907;
+  --theme-warning: #9d4310;
+  --theme-danger: #af3029;
+  --theme-neutral: #575653;
+  --lite-sidebar: #f2f0e5;
+  --sidebar-strong: #e6e4d9;
+  --surface-hover: #f2f0e5;
+  --surface-active: #e6e4d9;
+  --surface-selected: #ddf1e4;
+  --ink-muted: #575653;
+  --ink-faint: #686762;
+  --line: #cecdc3;
+  --hairline: #e6e4d9;
+  --accent-strong: #164f4a;
+  --accent-contrast: #fffcf0;
+  --primary-action-hover: #164f4a;
+  --focus: #1c6c66;
+  --control-fill: #fffcf0;
+  --control-border: #878580;
+}
+
+:root[data-theme="dark"] {
+  --theme-surface: #100f0f;
+  --theme-ink: #cecdc3;
+  --theme-accent: #3aa99f;
+  --theme-success: #879a39;
+  --theme-warning: #da702c;
+  --theme-danger: #e8705f;
+  --theme-neutral: #b7b5ac;
+  --lite-sidebar: #1c1b1a;
+  --sidebar-strong: #282726;
+  --surface-hover: #282726;
+  --surface-active: #343331;
+  --surface-selected: #143f3c;
+  --ink-muted: #b7b5ac;
+  --ink-faint: #9f9d96;
+  --line: #403e3c;
+  --hairline: #282726;
+  --accent-strong: #5abdac;
+  --accent-contrast: #100f0f;
+  --primary-action-hover: #5abdac;
+  --focus: #5abdac;
+  --control-fill: #1c1b1a;
+  --control-border: #878580;
+}
